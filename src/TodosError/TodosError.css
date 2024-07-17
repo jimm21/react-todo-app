@@ -1,0 +1,15 @@
+.error-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    margin: 30px auto;
+}
+.error-container p {
+    margin: 0;
+}
+.error-container span svg{
+    width: 80px;
+    height: 80px;
+}

@@ -1,0 +1,15 @@
+.empty-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    margin: 30px auto;
+}
+.empty-container p {
+    margin: 0;
+}
+.empty-container span svg{
+    width: 80px;
+    height: 80px;
+}

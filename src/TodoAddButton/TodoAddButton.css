@@ -1,0 +1,22 @@
+.add-button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.add-button-container button {
+
+    border: none;
+    border-radius: 10px;
+    min-width: 200px;
+    max-width: 400px;
+    height: 36px;
+
+    font-size: 16px;
+    background-color: #BBE9FF;
+}
+
+.add-button-container button:hover {
+    cursor: pointer;
+    font-size: 18px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}

@@ -1,0 +1,5 @@
+.title-container {
+    display: flex;
+    justify-content: center;
+    border-bottom: 8px solid #FFE9D0;
+}
